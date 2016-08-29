@@ -1,0 +1,8 @@
+# samba_demo
+应用在局域网类
+主要用于linux和windows间文件共享和打印共享
+samba协议,从手机上访问samba服务器
+需要用到jcifs.jar包，两个类SamFile和SamInputStream
+jcifs.jar实现samba协议，需要网络权限
+播放视频时播放视频时时，需要将文件流放到http服务器上，需要在手机上实现http服务器（用java代码写）。
+主界面playfileactivity.class
